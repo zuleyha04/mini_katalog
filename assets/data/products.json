@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Kablosuz Kulaklık Pro",
+    "description": "Aktif gürültü engelleme özelliğine sahip, 30 saat pil ömrü sunan premium bluetooth kulaklık.",
+    "price": 1299.99,
+    "category": "Elektronik",
+    "imageUrl": "https://productimages.hepsiburada.net/s/777/375-375/110000644767902.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "name": "Slim Fit Denim Ceket",
+    "description": "Yüksek kaliteli %100 pamuk denim kumaştan üretilmiş, modern slim fit kesimli ceket.",
+    "price": 459.90,
+    "category": "Giyim",
+    "imageUrl": "https://ktnimg2.mncdn.com/products/2026/03/17/3217097/7a39ceb4-0b2f-40bc-9083-f7e87b0f21a5_size870x1142.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": 3,
+    "name": "Akıllı Saat Series X",
+    "description": "Sağlık takibi, GPS, nabız ölçer ve 7 günlük pil ömrü ile donatılmış akıllı saat.",
+    "price": 2499.00,
+    "category": "Elektronik",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU150P7liHmcinvI9zHd8jlazmuvcpHAWONQ&s",
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "name": "Deri Omuz Çantası",
+    "description": "El yapımı gerçek dana derisi omuz çantası.",
+    "price": 879.50,
+    "category": "Aksesuar",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6V8AZoq6tpuzRTBkA6z-TBZa03S055klOwg&s",
+    "rating": 4.3
+  }
+]
