@@ -28,7 +28,7 @@
 | 🏷️ Kategori Filtresi | Kategoriye göre ürün filtreleme |
 | 📦 Ürün Detay | Tam ekran ürün bilgisi ve görsel |
 | 🛒 Sepet Yönetimi | Ürün ekle, çıkar, toplam hesaplama |
-| 🎨 Özel Tema | Dark mode, özel renk paleti |
+| 🎨 Özel Tema | Özel renk paleti |
 
 ---
 
@@ -61,8 +61,8 @@ assets/
 
 ## 🛠️ Kullanılan Teknolojiler
 
-- **Flutter SDK** — `>=3.0.0`
-- **Dart SDK** — `>=3.0.0 <4.0.0`
+- **Flutter SDK** — `3.29.3`
+- **Dart SDK** — `3.7.2`
 - **material.dart** — Varsayılan Flutter UI kütüphanesi
 
 > ℹ️ Ekstra paket kullanılmamıştır. Proje tamamen Flutter'ın yerleşik widget'ları ile geliştirilmiştir.
@@ -88,29 +88,7 @@ flutter pub get
 
 # 3. Uygulamayı başlatın
 flutter run
+
 ```
-
-### Flutter Sürümü Kontrolü
-
-```bash
-flutter --version
-```
-
----
-
-## 📚 Öğrenilen Kavramlar
-
-Bu proje aşağıdaki Flutter/Dart konularını kapsamaktadır:
-
-- ✅ **StatelessWidget & StatefulWidget** — Widget tipleri ve state yönetimi
-- ✅ **Navigator.push / pop** — Sayfa geçişleri
-- ✅ **Route Arguments** — Sayfalar arası veri taşıma
-- ✅ **GridView.builder** — Dinamik grid listeleme
-- ✅ **ListView.builder** — Dinamik liste oluşturma
-- ✅ **fromJson / toJson** — JSON veri modelleme
-- ✅ **CustomScrollView & SliverAppBar** — Gelişmiş scroll davranışı
-- ✅ **ThemeData** — Uygulama geneli tema
-- ✅ **SnackBar & AlertDialog** — Kullanıcı bildirimleri
-- ✅ **Image.network** — Ağdan görsel yükleme
 
 ---
